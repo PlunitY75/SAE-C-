@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\yassi\OneDrive\Bureau\SAEs\SAE C++ Période B\SAE_C++\SAE_C++\Source.cpp(33,31): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+  sspg.cpp
+C:\Users\yassi\OneDrive\Bureau\SAEs\SAE C++ Période B\SAE_C++\SAE_C++\sspg.cpp(54,31): warning C4267: '+=' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\yassi\OneDrive\Bureau\SAEs\SAE C++ Période B\SAE_C++\SAE_C++\sspg.cpp(128,35): warning C4267: '+=' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\yassi\OneDrive\Bureau\SAEs\SAE C++ Période B\SAE_C++\SAE_C++\sspg.cpp(177,27): warning C4267: '+=' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\yassi\OneDrive\Bureau\SAEs\SAE C++ Période B\SAE_C++\SAE_C++\sspg.cpp(254,31): warning C4267: '+=' : conversion de 'size_t' en 'int', perte possible de données
+  Génération de code en cours...
+  SAE_C++.vcxproj -> C:\Users\yassi\OneDrive\Bureau\SAEs\SAE C++ Période B\SAE_C++\x64\Debug\SAE_C++.exe
